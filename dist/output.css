@@ -1743,6 +1743,11 @@ video {
   --tw-gradient-to-position:  ;
 }
 
+.to-green-500 {
+  --tw-gradient-to: #22c55e var(--tw-gradient-to-position);
+  --tw-gradient-to-position:  ;
+}
+
 .decoration-slice {
   -webkit-box-decoration-break: slice;
           box-decoration-break: slice;
